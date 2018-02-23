@@ -1,4 +1,5 @@
-[
+{
+  "hospitals": [
   {
     "hospitalId": 1,
     "name": 1,
@@ -26,4 +27,12 @@
     "address": "Eliseo@gardner.biz",
     "urlImg": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
   }
-]
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
