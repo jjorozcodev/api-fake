@@ -32,8 +32,8 @@
   }
 ],
   "comments": [
-    { "id": 1, "body": "Excelente atención.", "userId": 1, "hospitalId": 3 },
-    { "id": 2, "body": "Muy buenos médicos.", "userId": 13, "hospitalId": 1 }
+    { "id": 1, "body": "Excelente atención.", "userId": 1, "hospitalId": 1 },
+    { "id": 2, "body": "Muy buenos médicos.", "userId": 13, "hospitalId": 3 }
   ],
   "authors": [
     { "id": 1, "name": "Francela", "email": "daryin.perez1267@est.uca.edu.ni" },
