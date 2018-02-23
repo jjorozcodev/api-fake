@@ -29,13 +29,13 @@
     "address": "Montoya 1 c. al lago, 1 c. abajo.",
     "website": "www.hospitalsaludintegral.com.ni",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
-  },
+  }
 ],
   "comments": [
     { "id": 1, "body": "Excelente atención.", "userId": 1, "hospitalId": 3 },
     { "id": 2, "body": "Muy buenos médicos.", "userId": 13, "hospitalId": 1 }
   ],
-  "users": [
+  "authors": [
     { "id": 1, "name": "Francela", "email": "daryin.perez1267@est.uca.edu.ni" },
     { "id": 13, "name": "JJ", "email": "daryin.perez1267@est.uca.edu.ni" }
   ]
