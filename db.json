@@ -5,7 +5,7 @@
     "name": "Hospital Central Managua",
     "slogan": "Un hospital con alma.",
     "description": "Somos la red de servicios médicos especializados mejor equipada de Centro America.",
-    "telephone": "22401690",
+    "telephone": "2240-1690",
     "address": "Entrada sur Centro Comercial Managua.",
     "website": "www.sermesanicaragua.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
@@ -15,7 +15,7 @@
     "name": "Hospital Monte España",
     "slogan": "El carácter humano en la atención médica.",
     "description": "Únicos en Nicaragua en detectar a través de una prueba de ADN el virus del Papiloma Humano VPH.",
-    "telephone": "22700810",
+    "telephone": "2270-0810",
     "address": "Semáforos de Enitel Villa Fontana 150 varas al Norte.",
     "website": "www.hospitalmontespana.com.ni",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
@@ -25,15 +25,65 @@
     "name": "Hospital Salud Integral",
     "slogan": "Líder en tecnología médica.",
     "description": "Somos líderes en el desarrollo de los más avanzados procedimientos poco invasivos.",
-    "telephone": "22512030",
+    "telephone": "2251-2030",
     "address": "Montoya 1 c. al lago, 1 c. abajo.",
     "website": "www.hospitalsaludintegral.com.ni",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+  },
+  {
+    "id": 4,
+    "name": "Hospital Bautista",
+    "slogan": "Manos que cuidan a tu familia.",
+    "description": "Brindamos servicios de salud con personal médico especializado, tecnología de punta en un ambiente especial de amor cristiano.",
+    "telephone": "2264-9020",
+    "address": "Barrio Largaespada costado sur del Recinto Universitario Carlos Fonseca Amador (RUCFA).",
+    "website": " ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+  },
+  {
+    "id": 5,
+    "name": "Hospital Sumedico",
+    "slogan": " ",
+    "description": " ",
+    "telephone": "2295-6595",
+    "address": "Bolonia Rotonda El Güegüense 300 Mts Al Lago.",
+    "website": " ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+  },
+  {
+    "id": 6,
+    "name": "Hospital Cruz Azul",
+    "slogan": "Solidaridad y Justicia Social.",
+    "description": " ",
+    "telephone": "2222-3364",
+    "address": "Del Busto José Martí, 2 c. al Este 2 c. al norte. Rpto. Largaespada.",
+    "website": "www.cruzazul.com.ni",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+  },
+  {
+    "id": 7,
+    "name": "Hospital Militar",
+    "slogan": "Un hospital de excelencia.",
+    "description": "Somos un hospital escuela de última generación y a la vanguardia en equipamiento, formación de recursos humanos e infraestructura hospitalaria de primer nivel.",
+    "telephone": "2298-1032",
+    "address": "Rotonda el Guegüense 400 m. al Este & 300 m. al Sur.",
+    "website": "www.hospitalmilitar.com.ni",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+  },
+  {
+    "id": 8,
+    "name": "Hospital Carlos Roberto Huembes",
+    "slogan": "Trabajamos por su salud con Calidad y Calidez.",
+    "description": "Le ofrecemos la experiencia y prestigio de nuestro personal médico y de apoyo quienes le garantizan calidad con calidez en nuestros diferentes servicios.",
+    "telephone": "2271-2498 ",
+    "address": "Costado sur Parque Las Piedrecitas",
+    "website": "www.hospitalcarlosrobertohuembes.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
   }
 ],
   "comments": [
-    { "id": 1, "body": "Excelente atención.", "userId": 1, "hospitalId": 1 },
-    { "id": 2, "body": "Muy buenos médicos.", "userId": 13, "hospitalId": 3 }
+    { "id": 1, "body": "Excelente atención.", "date": "17/02/2018", "authorId": 1, "hospitalId": 3 },
+    { "id": 2, "body": "Muy buenos médicos.", "date": "20/02/2018", "authorId": 13, "hospitalId": 1 }
   ],
   "authors": [
     { "id": 1, "name": "Francela", "email": "daryin.perez1267@est.uca.edu.ni" },
