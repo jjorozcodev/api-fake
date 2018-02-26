@@ -8,7 +8,7 @@
     "telephone": "2240-1690",
     "address": "Entrada sur Centro Comercial Managua.",
     "website": "www.sermesanicaragua.com",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/cGNOLx/central.png"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "telephone": "2270-0810",
     "address": "Semáforos de Enitel Villa Fontana 150 varas al Norte.",
     "website": "www.hospitalmontespana.com.ni",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/fbRdnc/monte.png"
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
     "telephone": "2251-2030",
     "address": "Montoya 1 c. al lago, 1 c. abajo.",
     "website": "www.hospitalsaludintegral.com.ni",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/cscjSc/salud.png"
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@
     "telephone": "2264-9020",
     "address": "Barrio Largaespada costado sur del Recinto Universitario Carlos Fonseca Amador (RUCFA).",
     "website": " ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/e0uQYH/bautista.png"
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "telephone": "2295-6595",
     "address": "Bolonia Rotonda El Güegüense 300 Mts Al Lago.",
     "website": " ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/dLQSfx/sumedico.png"
   },
   {
     "id": 6,
@@ -58,7 +58,7 @@
     "telephone": "2222-3364",
     "address": "Del Busto José Martí, 2 c. al Este 2 c. al norte. Rpto. Largaespada.",
     "website": "www.cruzazul.com.ni",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/j8ZsDH/cruz.png"
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@
     "telephone": "2298-1032",
     "address": "Rotonda el Guegüense 400 m. al Este & 300 m. al Sur.",
     "website": "www.hospitalmilitar.com.ni",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/fiCZSc/militar.png"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "telephone": "2271-2498 ",
     "address": "Costado sur Parque Las Piedrecitas",
     "website": "www.hospitalcarlosrobertohuembes.com",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hospital_pointer.png"
+    "urlImg": "http://image.ibb.co/jv49tH/roberto.png"
   }
 ],
   "comments": [
