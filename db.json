@@ -17,36 +17,36 @@
     {
       "banco": "BAC",
       "tipoAtm": "Full",
-      "nombre": "Galerías Santo Domingo",
+      "localidad": "Galerías Santo Domingo",
       "latitud": 12.103584,
       "longitud": -86.248946
     },
     {
       "banco": "Banpro",
       "tipoAtm": "Cash",
-      "nombre": "Multicentro Las Américas",
+      "localidad": "Multicentro Las Américas",
       "latitud": 12.139608,
       "longitud": -86.229010 
     },
     {
       "banco": "Bancentro",
       "tipoAtm": "Full",
-      "nombre": "Plaza Inter",
+      "localidad": "Plaza San Ramón",
       "latitud": 12.144748,
       "longitud": -86.274031 
     },
     {
       "banco": "Banpro",
       "tipoAtm": "Full",
-      "nombre": "Plaza Inter",
+      "localidad": "Planes de Altamira",
       "latitud": 12.144748,
-      "longitud": -86.274031 
+      "longitud": -86.263021 
     },
     {
       "banco": "BAC",
       "tipoAtm": "Full",
-      "nombre": "Plaza Inter",
-      "latitud": 12.144748,
+      "localidad": "Reparto San Juan",
+      "latitud": 12.123745,
       "longitud": -86.274031 
     }
   ]
