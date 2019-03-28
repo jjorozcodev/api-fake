@@ -1,156 +1,53 @@
 {
-  "bancos": [
-    {
-      "id": 1,
-      "nombre": "Bancentro",
-      "urlLogo": "http://www.aedcr.com/sites/default/files/styles/logo_empresa/public/logo_lafise.png"
-    },
-    {
-      "id": 2,
-      "nombre": "Banpro",
-      "urlLogo": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/06/f2/2e/06f22ea0-ab86-30b6-afa4-4ad6baaf3b37/source/512x512bb.jpg"
-    },
-    {
-      "id": 3,
-      "nombre": "BAC",
-      "urlLogo": "https://pbs.twimg.com/profile_images/888135430457090048/R1ODsKwv.jpg"
-    }
-  ],
-  "localidades": [
-    {
-      "id": 1,
-      "nombre": "Centro Comercial Managua",
-      "latitud": "12.117084",
-      "longitud": "-86.248262"
-    },
-    {
-      "id": 2,
-      "nombre": "Centro Comercial Metrocentro",
-      "latitud": "12.127825",
-      "longitud": "-86.264779"
-    },
-    {
-      "id": 3,
-      "nombre": "Galerías Santo Domingo",
-      "latitud": "12.103584",
-      "longitud": "-86.248946"
-    },
-    {
-      "id": 4,
-      "nombre": "Multicentro Las Américas",
-      "latitud": "12.139608",
-      "longitud": "-86.229010" 
-    },
-    {
-      "id": 5,
-      "nombre": "Plaza Inter",
-      "latitud": "12.144748",
-      "longitud": "-86.274031" 
-    }
-  ],
   "atms": [
     {
-      "id": 1,
-      "banco_id": 1,
-      "localidad_id": 1,
-      "cantidad": 4,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+      "banco": "Bancentro",
+      "tipoAtm": "Cash",
+      "localidad": "Centro Comercial Managua",
+      "latitud": 12.117084,
+      "longitud": -86.248262
     },
-      {
-      "id": 2,
-      "banco_id": 1,
-      "localidad_id": 2,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "Banpro",
+      "tipoAtm": "Cash",
+      "localidad": "Centro Comercial Metrocentro",
+      "latitud": 12.127825,
+      "longitud": -86.264779
     },
-     { "id": 3,
-      "banco_id": 2,
-      "localidad_id": 2,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "BAC",
+      "tipoAtm": "Full",
+      "nombre": "Galerías Santo Domingo",
+      "latitud": 12.103584,
+      "longitud": -86.248946
     },
-     { "id": 4,
-      "banco_id": 3,
-      "localidad_id": 2,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "Banpro",
+      "tipoAtm": "Cash",
+      "nombre": "Multicentro Las Américas",
+      "latitud": 12.139608,
+      "longitud": -86.229010 
     },
-    {  "id": 5,
-      "banco_id": 3,
-      "localidad_id": 3,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "Bancentro",
+      "tipoAtm": "Full",
+      "nombre": "Plaza Inter",
+      "latitud": 12.144748,
+      "longitud": -86.274031 
     },
-    {  "id": 6,
-      "banco_id": 3,
-      "localidad_id": 4,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "Banpro",
+      "tipoAtm": "Full",
+      "nombre": "Plaza Inter",
+      "latitud": 12.144748,
+      "longitud": -86.274031 
     },
-    {  "id": 7,
-      "banco_id": 4,
-      "localidad_id": 1,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
-    },
-     { "id": 8,
-      "banco_id": 2,
-      "localidad_id": 4,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
-    },
-    {  "id": 9,
-      "banco_id": 2,
-      "localidad_id": 5,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
-    },
-    {  "id": 10,
-      "banco_id": 3,
-      "localidad_id": 5,
-      "tipo_atm": "Cash",
-      "servicios": [
-        "Retiro de efectivo",
-        "Consulta de saldos",
-        "Transferencias de fondos"
-      ]
+    {
+      "banco": "BAC",
+      "tipoAtm": "Full",
+      "nombre": "Plaza Inter",
+      "latitud": 12.144748,
+      "longitud": -86.274031 
     }
   ]
 }
