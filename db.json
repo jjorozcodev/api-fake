@@ -1,4 +1,21 @@
 {
+  "bancos":[
+    {
+      "id":1,
+      "nombre":"Bancentro",
+      "logo": 1
+    },
+    {
+      "id":2,
+      "nombre":"Bancentro",
+      "logo": 2
+    },
+    {
+      "id":3,
+      "nombre":"Banpro",
+      "logo": 3
+    }
+  ],
   "atms": [
     {
       "banco": "Bancentro",
